@@ -1,4 +1,8 @@
 TinDog Starting Files
 
 Screenshots below:
-![Screenshot (248)](https://user-images.githubusercontent.com/41896911/149032138-5a7e8e32-2ba4-4cfd-8ddd-f5154c6ab3aa.png)
+https://i.postimg.cc/057cQRXS/Screenshot-248.png
+https://i.postimg.cc/zBgpK9J9/Screenshot-249.png
+https://i.postimg.cc/Bb5gwHPp/Screenshot-250.png
+https://i.postimg.cc/T1v09C1h/Screenshot-251.png
+
